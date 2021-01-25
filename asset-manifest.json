@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Apple%20rebuild%20with%20react/static/css/main.8c59c807.chunk.css",
+    "main.js": "/Apple%20rebuild%20with%20react/static/js/main.cd2fa418.chunk.js",
+    "main.js.map": "/Apple%20rebuild%20with%20react/static/js/main.cd2fa418.chunk.js.map",
+    "runtime-main.js": "/Apple%20rebuild%20with%20react/static/js/runtime-main.7d431570.js",
+    "runtime-main.js.map": "/Apple%20rebuild%20with%20react/static/js/runtime-main.7d431570.js.map",
+    "static/js/2.0f1d0bb8.chunk.js": "/Apple%20rebuild%20with%20react/static/js/2.0f1d0bb8.chunk.js",
+    "static/js/2.0f1d0bb8.chunk.js.map": "/Apple%20rebuild%20with%20react/static/js/2.0f1d0bb8.chunk.js.map",
+    "index.html": "/Apple%20rebuild%20with%20react/index.html",
+    "static/css/main.8c59c807.chunk.css.map": "/Apple%20rebuild%20with%20react/static/css/main.8c59c807.chunk.css.map",
+    "static/js/2.0f1d0bb8.chunk.js.LICENSE.txt": "/Apple%20rebuild%20with%20react/static/js/2.0f1d0bb8.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/Apple%20rebuild%20with%20react/static/media/watch-series-5.0e3dade2.jpg",
+    "static/media/mac-laptop.5a41ed84.jpg": "/Apple%20rebuild%20with%20react/static/media/mac-laptop.5a41ed84.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d431570.js",
+    "static/js/2.0f1d0bb8.chunk.js",
+    "static/css/main.8c59c807.chunk.css",
+    "static/js/main.cd2fa418.chunk.js"
+  ]
+}
